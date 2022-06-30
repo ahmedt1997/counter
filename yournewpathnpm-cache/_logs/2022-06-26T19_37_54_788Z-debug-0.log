@@ -26,3 +26,9 @@
 25 timing config:load:flatten Completed in 10ms
 26 timing npm:load:display Completed in 15ms
 27 verbose logfile logs-max:10 dir:C:\Users\Med chlif\Documents\react\mastering-react-mosh\react-app\yournewpathnpm-cache\_logs
+28 verbose logfile C:\Users\Med chlif\Documents\react\mastering-react-mosh\react-app\yournewpathnpm-cache\_logs\2022-06-26T19_37_54_788Z-debug-0.log
+29 timing npm:load:logFile Completed in 12ms
+30 timing npm:load:timers Completed in 1ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 64ms
+33 silly logfile done cleaning log files
